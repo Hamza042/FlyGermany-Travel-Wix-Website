@@ -1,3 +1,12 @@
+# Design The Travel Website Project in CMS Wix.com
+![logo](https://github.com/Hamza042/FlyGermany/blob/main/Fly-Germany-Website-Images/Fly-Germany-Travel-Website(1).png)
+
+![logo](https://github.com/Hamza042/FlyGermany/blob/main/Fly-Germany-Website-Images/Fly-Germany-Travel-Website(2).png)
+
+![logo](https://github.com/Hamza042/FlyGermany/blob/main/Fly-Germany-Website-Images/Fly-Germany-Travel-Website(3).png)
+
+![logo](https://github.com/Hamza042/FlyGermany/blob/main/Fly-Germany-Website-Images/Fly-Germany-Travel-Website(4).png)
+
 # Git Integration & Wix CLI <img align="left" src="https://user-images.githubusercontent.com/89579857/185785022-cab37bf5-26be-4f11-85f0-1fac63c07d3b.png">
 
 This repo is part of Git Integration & Wix CLI, a set of tools that allows you to write, test, and publish code for your Wix site locally on your computer. 
